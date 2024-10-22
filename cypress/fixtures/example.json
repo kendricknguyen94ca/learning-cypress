@@ -1,0 +1,5 @@
+{
+  "name": "Bob",
+  "gender": "Female",
+  "expectedProduct": ["Blackberry", "Nokia Edge"]
+}
